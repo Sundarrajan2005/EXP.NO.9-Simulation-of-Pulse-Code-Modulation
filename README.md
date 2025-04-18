@@ -32,8 +32,8 @@ import numpy as np
 import matplotlib.pyplot as plt  # Missing import added
 
 # Parameters
-sampling_rate = 5000  # Samples per second
-frequency = 50  # Frequency of the analog message signal
+sampling_rate = 9000  # Samples per second
+frequency = 90  # Frequency of the analog message signal
 duration = 0.1  # Duration in seconds
 quantization_levels = 16  # Number of quantization levels
 
@@ -94,7 +94,7 @@ plt.show()
 ```
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/ed6438f4-607c-4713-a647-d97e99626045)
+![image](https://github.com/user-attachments/assets/088c1eae-d264-434d-9b5e-b4131c72cb17)
 
  
 # RESULT / CONCLUSIONS:
